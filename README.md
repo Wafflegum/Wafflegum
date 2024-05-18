@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wafflegum
-- 🌱 I’m currently learning java (making mods in minecraft and general stuff on the language).
+- 🌱 I’m currently learning web development. Trying to go dive in to full stack for now and learn JavaScript and HTML&CSS and see how it goes.
 - 📫 Find my social media here > https://beacons.ai/wafflegum
 
 <!---
